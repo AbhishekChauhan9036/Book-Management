@@ -6,6 +6,10 @@
   "scripts": {
     "start": "npx nodemon src/index.js"
   },
+  "engines" : { 
+    "npm" : "9.2.0",
+    "node" : "18.13.0"
+  },
   "author": "\"Batsy\"",
   "license": "ISC",
   "dependencies": {
